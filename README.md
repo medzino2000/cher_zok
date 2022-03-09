@@ -1,2 +1,3 @@
 # cher_zok
 for my portf...
+## project notes
