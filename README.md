@@ -1,3 +1,4 @@
 # cher_zok
-for my portf...
-## project notes
+***
+## direct link :
+ <https://priceless-ardinghelli-aa765c.netlify.app/>
